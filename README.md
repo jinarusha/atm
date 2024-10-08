@@ -1,6 +1,6 @@
 ### to clone
 ```sh
-https://github.com/jinarusha/atm.git
+git clone https://github.com/jinarusha/atm.git
 ```
 
 ### to run unit tests
